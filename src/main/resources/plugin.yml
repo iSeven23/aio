@@ -1,0 +1,4 @@
+name: aio
+version: '1.0.0.0'
+main: org.iSeven23.aio.Aio
+api-version: '1.21'
