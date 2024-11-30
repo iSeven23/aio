@@ -1,7 +1,5 @@
 package org.iSeven23.aio.Utils;
-
 public class Logo {
-
     public void printlogo(){
         System.out.println("""                     
                     
