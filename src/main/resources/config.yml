@@ -1,0 +1,3 @@
+gms:
+  permission: aio.gms.use
+  gm_set_msg: "&aGame mode set successfully! &r(&6%player_gamemode%&r)"
